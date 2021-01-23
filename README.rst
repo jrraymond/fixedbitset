@@ -20,7 +20,7 @@ Recent Changes
 --------------
 - 0.3.2
 
-  + #18: Optimize `ones` using `trailing_zeroes` by @vks
+  + `#18 <https://github.com/petgraph/fixedbitset/pull/18>`: Optimize `ones` using `trailing_zeroes` by @vks
 
 - 0.3.1
 
